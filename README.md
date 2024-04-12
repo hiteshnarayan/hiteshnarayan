@@ -1,5 +1,8 @@
 
-# Hello! 👋 I'm Hitesh Narayana
+<div align="center">
+  Hello! 👋 I'm Hitesh Narayana
+</div>
+
 
 
 🎓 Master of Science in Computer Science | Currently Exploring Opportunities
