@@ -1,8 +1,8 @@
+<div style="text-align: center;">
 
-<div align="center">
-  Hello! 👋 I'm Hitesh Narayana
+# Hello! 👋 I'm Hitesh Narayana
+
 </div>
-
 
 
 🎓 Master of Science in Computer Science | Currently Exploring Opportunities
@@ -12,3 +12,4 @@
 💡 Passionate about Machine Learning, Data Engineering, and Deep Learning
 
 🌟 Always open to new challenges and learning experiences!
+
