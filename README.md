@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋 I'm Hitesh Narayana </h1>
+<h1 align="center"> Hello! 👋 I'm Hitesh </h1>
 
 
 - 🎓 Master of Science in Computer Science | Currently Exploring Opportunities
