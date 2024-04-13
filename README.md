@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! 👋 I'm Hitesh </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hit07&label=Profile%20views&color=0e75b6&style=flat" alt="Hit07" /> </p>
 
 - 🎓 Master of Science in Computer Science | Currently Exploring Opportunities
 
