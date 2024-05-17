@@ -1,8 +1,9 @@
 <h1 align="center"> Hello! 👋 I'm Hitesh </h1>
 
- <p align="left">
-    <img src="https://img.shields.io/badge/Profile%20views-0e75b7?style=flat" alt="Profile views" />
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Hit07New&label=Profile%20views&color=0e75b7&style=flat" alt="Hit07New" /> 
 </p>
+
 
 
 - 🎓 Master of Science in Computer Science | Currently Exploring Opportunities
