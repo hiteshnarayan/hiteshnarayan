@@ -1,259 +1,50 @@
-<div align="center">
-
-# ```diff
-+ print("Hello World 👋, I'm Hitesh!")
-```
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Hit07n&label=Profile%20Views&labelColor=%23000000&countColor=%230077B5)](https://visitorbadge.io/status?path=Hit07n)
-
-<a href="https://www.linkedin.com/in/hiteshnarayan/" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-</a>
-<a href="https://hit07.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio_📂-FF4088?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="mailto:hiteshna@usc.edu">
-  <img src="https://img.shields.io/badge/Email_Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://tinyurl.com/6hzxjfav" target="_blank">
-  <img src="https://img.shields.io/badge/Resume_📄-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</div>
-
-## ```python
-def about_me():
-    return {
-        "role": "MS CS Student @ USC | Research Assistant @ ISI HUMANS Lab",
-        "passion": ["Machine Learning 🤖", "Data Engineering 📊", "Cloud Architecture ☁️"],
-        "seeking": "Data Science & ML Engineering Internships",
-        "achievement": "HackSC'24 SoCal Runner-up 🏆",
-        "location": "Los Angeles, CA 📍"
-    }
-```
+<h1 align="center"> Hello! 👋 I'm Hitesh </h1>
 
 <div align="center">
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Hitesh))
-    Data Science
-      Machine Learning
-        PyTorch & TensorFlow
-        NLP & Computer Vision
-      Big Data
-        Spark & Hadoop
-        ETL Pipelines
-    Cloud & DevOps
-      AWS
-      Azure
-      GCP
-      Docker
-    Research
-      Social Media Analytics
-      Election Analysis
-      Blockchain
-```
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&random=false&width=435&lines=MS+CS+Student+%40+USC;Research+Assistant+%40+USC+ISI;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Data)](https://git.io/typing-svg)
 </div>
 
-## 🛠️ Technology Arsenal
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Hit07n&label=Profile%20views&color=0e75b7&style=flat" alt="Hit07" /> 
+</p>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiteshn007/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshn007/" alt="LinkedIn"></a>
+  <a href="https://tinyurl.com/6hzxjfav"><img src="https://img.shields.io/badge/-Resume-critical?style=flat-square&logo=Google%20Drive&logoColor=white&link=https://tinyurl.com/HiteshNarayana" alt="Resume"></a>
+  <a href="mailto:hiteshna@usc.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com" alt="Email"></a>
+</p>
 
-### 🐍 Core Languages
-```python
-languages = {
-    "Python": "Expert ⭐⭐⭐⭐⭐",
-    "SQL": "Advanced ⭐⭐⭐⭐",
-    "C/C++": "Intermediate ⭐⭐⭐",
-    "Java": "Proficient ⭐⭐⭐"
-}
-```
+* 🎓 Pursuing MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
+  
+* 🔬 Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/) 
+  
+* 💼 Open for Summer 2025 Internships and Research Collaborations!
 
-</td>
-<td align="center" width="33%">
+<details>
+  <summary>More about me👇</summary>
 
-### 🤖 AI/ML Tools
-```python
-ml_tools = {
-    "PyTorch": "Production",
-    "TensorFlow": "Advanced",
-    "Scikit-learn": "Expert",
-    "HuggingFace": "Advanced",
-    "NLTK & spaCy": "Proficient"
-}
-```
+ 
+- 🏆 HackSC'24 SoCal Runner-up
+  
+- 📚 Published Researcher in Social Media Analytics & Blockchain
+  
+- 🌱 Currently exploring LLMs and Vector Databases
 
-</td>
-<td align="center" width="33%">
+  
+</details>
 
-### ☁️ Cloud & DevOps
-```python
-cloud = {
-    "AWS": ["Lambda", "S3", "EC2"],
-    "Azure": ["Functions", "ML"],
-    "GCP": ["BigQuery", "AI"],
-    "Docker": "Containerization"
-}
-```
 
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
 
-### 📊 Data Engineering
-```python
-data_stack = {
-    "Processing": ["Spark", "Hadoop"],
-    "Visualization": ["Power BI", "Tableau"],
-    "Databases": ["PostgreSQL", "MongoDB"],
-    "Vector DBs": ["Weaviate", "Pinecone"]
-}
-```
+<h2 align="center">Languages and Tools:</h2>
 
-</td>
-<td align="center" width="33%">
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/> <img  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/> </p>
 
-### 🌐 Web Tech
-```python
-web_stack = {
-    "Backend": ["Flask", "FastAPI"],
-    "Frontend": ["HTML", "CSS", "JS"],
-    "Framework": ["Bootstrap", "React"],
-    "Database": ["Firebase", "SQLite"]
-}
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🔧 Dev Tools
-```python
-tools = {
-    "Version Control": ["Git", "GitHub"],
-    "IDE": ["VSCode", "PyCharm"],
-    "API Testing": ["Postman"],
-    "CI/CD": ["GitHub Actions"]
-}
-```
-
-</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏋️ FitGPT - AI Fitness Coach
-![Project Type](https://img.shields.io/badge/TYPE-Full_Stack-FF6B6B?style=flat-square) 
-![Tech Stack](https://img.shields.io/badge/STACK-React_Flask_GPT4-4EC5D4?style=flat-square)
-- 🏆 **HackSC'24 SoCal Runner-up**
-- 🤖 Personalized workout recommendations using GPT-4
-- 📈 40% improvement in recommendation accuracy
-- 🔗 [View Project](https://github.com/Hit07/FitGPT)
-
-</td>
-<td width="50%">
-
-### 🔍 Vector Search Engine
-![Project Type](https://img.shields.io/badge/TYPE-Search_Engine-FF9A8B?style=flat-square)
-![Tech Stack](https://img.shields.io/badge/STACK-VectorDB_Docker-6C5B7B?style=flat-square)
-- 🎯 80% retrieval accuracy for complex queries
-- 🚀 40% efficiency improvement in data ingestion
-- 🔄 Automated ETL pipelines
-- 🔗 [View Project](https://github.com/Hit07/vector-search)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏃‍♂️ Human Activity Classification
-![Project Type](https://img.shields.io/badge/TYPE-ML_Research-98DDCA?style=flat-square)
-![Tech Stack](https://img.shields.io/badge/STACK-PyTorch_TimeSeries-FF6B6B?style=flat-square)
-- 📊 94% accuracy across 7 activities
-- 🔄 Advanced feature engineering
-- 📈 12% boost via SMOTE & PCA
-- 🔗 [View Project](https://github.com/Hit07/activity-classification)
-
-</td>
-<td width="50%">
-
-### 🖼️ Scene Classification
-![Project Type](https://img.shields.io/badge/TYPE-Computer_Vision-FFD93D?style=flat-square)
-![Tech Stack](https://img.shields.io/badge/STACK-TensorFlow_CNN-6C5B7B?style=flat-square)
-- 🎯 88.56% F1 Score
-- 🔄 Transfer learning with 4 CNN architectures
-- 📈 40% error reduction
-- 🔗 [View Project](https://github.com/Hit07/scene-classification)
-
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/Hit07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</a>
-
-### 📊 Weekly Development Breakdown
-
-```text
-Python       █████████████░░░░░░   65.5%
-SQL          ████░░░░░░░░░░░░░░   20.0%
-C++          ██░░░░░░░░░░░░░░░░   10.0%
-Other        █░░░░░░░░░░░░░░░░░    4.5%
-```
-
+<img src="https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=apprentice&hide_border=true" alt="Hitesh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&theme=apprentice&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📚 Latest Publications
+<p align="right"> <img src="https://profile-counter.glitch.me/Hit07/count.svg" alt="Visitor Count"/> </p>
 
-```js
-const publications = [
-  {
-    title: "Social Media Discourse: 2024 U.S. Presidential Election on Twitter/X",
-    journal: "arXiv preprint",
-    date: "Nov 2024",
-    coAuthors: ["A. Balasubramanian", "V. Zou", "C. You", "L. Luceri", "E. Ferrara"]
-  },
-  {
-    title: "E-voting Using Blockchain & Homomorphic Encryption",
-    journal: "IJRASET",
-    date: "Jul 2023",
-    pages: "54573-54582"
-  }
-];
-```
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-```python
-def contact_me():
-    return {
-        "email": "hiteshna@usc.edu",
-        "linkedin": "linkedin.com/in/hiteshnarayan",
-        "portfolio": "hit07.github.io",
-        "location": "Los Angeles, CA"
-    }
-```
-
----
-*"Innovation distinguishes between a leader and a follower." - Steve Jobs*
-
-</div>
