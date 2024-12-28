@@ -1,86 +1,259 @@
 <div align="center">
 
-# 🚀 Hello World, I'm Hitesh! 
+# ```diff
++ print("Hello World 👋, I'm Hitesh!")
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiteshnarayan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4088?style=for-the-badge&logo=google-chrome)](https://hit07.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:hiteshna@usc.edu)
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-drive)](https://tinyurl.com/6hzxjfav)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Hit07n&label=Profile%20Views&labelColor=%23000000&countColor=%230077B5)](https://visitorbadge.io/status?path=Hit07n)
+
+<a href="https://www.linkedin.com/in/hiteshnarayan/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+</a>
+<a href="https://hit07.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio_📂-FF4088?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:hiteshna@usc.edu">
+  <img src="https://img.shields.io/badge/Email_Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://tinyurl.com/6hzxjfav" target="_blank">
+  <img src="https://img.shields.io/badge/Resume_📄-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
 </div>
 
-## 🎯 About Me
-
-I'm a passionate MS Computer Science student at USC with a deep enthusiasm for Data Science, Machine Learning, and building scalable solutions. Currently seeking internship opportunities where I can leverage my expertise in data engineering and machine learning to drive innovative solutions.
-
-### 🌟 Quick Highlights
-
-- 🎓 MS in Computer Science @ University of Southern California
-- 🔬 Research Assistant at USC ISI HUMANS Lab
-- 🏆 HackSC'24 SoCal Runner-up
-- 📚 Published Researcher in Social Media Analytics & Blockchain
-- 💡 Expertise in Data Engineering, ML/DL, and Cloud Architecture
-
-## 🛠️ Tech Arsenal
+## ```python
+def about_me():
+    return {
+        "role": "MS CS Student @ USC | Research Assistant @ ISI HUMANS Lab",
+        "passion": ["Machine Learning 🤖", "Data Engineering 📊", "Cloud Architecture ☁️"],
+        "seeking": "Data Science & ML Engineering Internships",
+        "achievement": "HackSC'24 SoCal Runner-up 🏆",
+        "location": "Los Angeles, CA 📍"
+    }
+```
 
 <div align="center">
 
-### 🐍 Core Technologies
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-Proficient-007396?style=flat-square&logo=java)
+## 🎯 Current Focus
 
-### 🤖 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-‎-EE4C2C?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-‎-FF6F00?style=flat-square&logo=tensorflow)
-![Scikit](https://img.shields.io/badge/ScikitLearn-‎-F7931E?style=flat-square&logo=scikit-learn)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-‎-FFD21E?style=flat-square)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Proficient-0089D6?style=flat-square&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-Skilled-4285F4?style=flat-square&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker)
-
-### 📊 Data Engineering
-![Spark](https://img.shields.io/badge/Apache_Spark-‎-E25A1C?style=flat-square&logo=apache-spark)
-![Hadoop](https://img.shields.io/badge/Hadoop-‎-66CCFF?style=flat-square&logo=apache-hadoop)
-![Power BI](https://img.shields.io/badge/Power_BI-‎-F2C811?style=flat-square&logo=power-bi)
-![Tableau](https://img.shields.io/badge/Tableau-‎-E97627?style=flat-square&logo=tableau)
+```mermaid
+mindmap
+  root((Hitesh))
+    Data Science
+      Machine Learning
+        PyTorch & TensorFlow
+        NLP & Computer Vision
+      Big Data
+        Spark & Hadoop
+        ETL Pipelines
+    Cloud & DevOps
+      AWS
+      Azure
+      GCP
+      Docker
+    Research
+      Social Media Analytics
+      Election Analysis
+      Blockchain
+```
 
 </div>
+
+## 🛠️ Technology Arsenal
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🐍 Core Languages
+```python
+languages = {
+    "Python": "Expert ⭐⭐⭐⭐⭐",
+    "SQL": "Advanced ⭐⭐⭐⭐",
+    "C/C++": "Intermediate ⭐⭐⭐",
+    "Java": "Proficient ⭐⭐⭐"
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI/ML Tools
+```python
+ml_tools = {
+    "PyTorch": "Production",
+    "TensorFlow": "Advanced",
+    "Scikit-learn": "Expert",
+    "HuggingFace": "Advanced",
+    "NLTK & spaCy": "Proficient"
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud & DevOps
+```python
+cloud = {
+    "AWS": ["Lambda", "S3", "EC2"],
+    "Azure": ["Functions", "ML"],
+    "GCP": ["BigQuery", "AI"],
+    "Docker": "Containerization"
+}
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 📊 Data Engineering
+```python
+data_stack = {
+    "Processing": ["Spark", "Hadoop"],
+    "Visualization": ["Power BI", "Tableau"],
+    "Databases": ["PostgreSQL", "MongoDB"],
+    "Vector DBs": ["Weaviate", "Pinecone"]
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Web Tech
+```python
+web_stack = {
+    "Backend": ["Flask", "FastAPI"],
+    "Frontend": ["HTML", "CSS", "JS"],
+    "Framework": ["Bootstrap", "React"],
+    "Database": ["Firebase", "SQLite"]
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🔧 Dev Tools
+```python
+tools = {
+    "Version Control": ["Git", "GitHub"],
+    "IDE": ["VSCode", "PyCharm"],
+    "API Testing": ["Postman"],
+    "CI/CD": ["GitHub Actions"]
+}
+```
+
+</td>
+</tr>
+</table>
+
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🏋️ FitGPT - AI Fitness Coach
+![Project Type](https://img.shields.io/badge/TYPE-Full_Stack-FF6B6B?style=flat-square) 
+![Tech Stack](https://img.shields.io/badge/STACK-React_Flask_GPT4-4EC5D4?style=flat-square)
+- 🏆 **HackSC'24 SoCal Runner-up**
+- 🤖 Personalized workout recommendations using GPT-4
+- 📈 40% improvement in recommendation accuracy
+- 🔗 [View Project](https://github.com/Hit07/FitGPT)
+
+</td>
+<td width="50%">
+
+### 🔍 Vector Search Engine
+![Project Type](https://img.shields.io/badge/TYPE-Search_Engine-FF9A8B?style=flat-square)
+![Tech Stack](https://img.shields.io/badge/STACK-VectorDB_Docker-6C5B7B?style=flat-square)
+- 🎯 80% retrieval accuracy for complex queries
+- 🚀 40% efficiency improvement in data ingestion
+- 🔄 Automated ETL pipelines
+- 🔗 [View Project](https://github.com/Hit07/vector-search)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏃‍♂️ Human Activity Classification
+![Project Type](https://img.shields.io/badge/TYPE-ML_Research-98DDCA?style=flat-square)
+![Tech Stack](https://img.shields.io/badge/STACK-PyTorch_TimeSeries-FF6B6B?style=flat-square)
+- 📊 94% accuracy across 7 activities
+- 🔄 Advanced feature engineering
+- 📈 12% boost via SMOTE & PCA
+- 🔗 [View Project](https://github.com/Hit07/activity-classification)
+
+</td>
+<td width="50%">
+
+### 🖼️ Scene Classification
+![Project Type](https://img.shields.io/badge/TYPE-Computer_Vision-FFD93D?style=flat-square)
+![Tech Stack](https://img.shields.io/badge/STACK-TensorFlow_CNN-6C5B7B?style=flat-square)
+- 🎯 88.56% F1 Score
+- 🔄 Transfer learning with 4 CNN architectures
+- 📈 40% error reduction
+- 🔗 [View Project](https://github.com/Hit07/scene-classification)
+
+</td>
+</tr>
+</table>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Hit07)
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Hit07)
+
+<a href="https://github.com/Hit07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
+
+### 📊 Weekly Development Breakdown
+
+```text
+Python       █████████████░░░░░░   65.5%
+SQL          ████░░░░░░░░░░░░░░   20.0%
+C++          ██░░░░░░░░░░░░░░░░   10.0%
+Other        █░░░░░░░░░░░░░░░░░    4.5%
+```
 
 </div>
 
-## 🌐 Featured Projects
+## 📚 Latest Publications
 
-### 🏋️‍♂️ FitGPT - AI Fitness Coach
-- HackSC'24 SoCal Runner-up
-- Full-stack application integrating GPT-4 for personalized workout recommendations
-- Tech: React, Flask, Firebase, OpenAI, Elasticsearch
-- [View Project →](https://github.com/Hit07/FitGPT)
+```js
+const publications = [
+  {
+    title: "Social Media Discourse: 2024 U.S. Presidential Election on Twitter/X",
+    journal: "arXiv preprint",
+    date: "Nov 2024",
+    coAuthors: ["A. Balasubramanian", "V. Zou", "C. You", "L. Luceri", "E. Ferrara"]
+  },
+  {
+    title: "E-voting Using Blockchain & Homomorphic Encryption",
+    journal: "IJRASET",
+    date: "Jul 2023",
+    pages: "54573-54582"
+  }
+];
+```
 
-### 🔍 Vector Search Engine
-- Semantic search engine using cutting-edge vector database technology
-- 80% retrieval accuracy for complex queries
-- Tech: Weaviate, HuggingFace, Docker
-- [View Project →](https://github.com/Hit07/vector-search)
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on innovative projects and discuss new opportunities. Feel free to reach out through any of the channels above!
+## 💬 Let's Connect!
 
 <div align="center">
 
-*"The only way to do great work is to love what you do." - Steve Jobs*
+```python
+def contact_me():
+    return {
+        "email": "hiteshna@usc.edu",
+        "linkedin": "linkedin.com/in/hiteshnarayan",
+        "portfolio": "hit07.github.io",
+        "location": "Los Angeles, CA"
+    }
+```
+
+---
+*"Innovation distinguishes between a leader and a follower." - Steve Jobs*
 
 </div>
