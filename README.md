@@ -1,58 +1,86 @@
-<h1 align="center"> Hello! 👋 I'm Hitesh </h1>
+<div align="center">
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Hit07n&label=Profile%20views&color=0e75b7&style=flat" alt="Hit07" /> 
-</p>
+# 🚀 Hello World, I'm Hitesh! 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hiteshn007/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshn007/" alt="LinkedIn"></a>
-  <a href="https://tinyurl.com/6hzxjfav"><img src="https://img.shields.io/badge/-Resume-critical?style=flat-square&logo=Google%20Drive&logoColor=white&link=https://tinyurl.com/HiteshNarayana" alt="Resume"></a>
-  <a href="mailto:hiteshna@usc.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com" alt="Email"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiteshnarayan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4088?style=for-the-badge&logo=google-chrome)](https://hit07.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:hiteshna@usc.edu)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-drive)](https://tinyurl.com/6hzxjfav)
 
-- 🎓 Master of Science in Computer Science | Currently Exploring Opportunities
+</div>
 
-- 💡 Passionate about Machine Learning, Data Engineering, and Deep Learning
+## 🎯 About Me
 
-- 🌟 Always open to new challenges and learning experiences!
+I'm a passionate MS Computer Science student at USC with a deep enthusiasm for Data Science, Machine Learning, and building scalable solutions. Currently seeking internship opportunities where I can leverage my expertise in data engineering and machine learning to drive innovative solutions.
 
-- ⚡ Pronouns: **"He" | "Him"**
+### 🌟 Quick Highlights
 
-<h2 align="center">Languages and Tools:</h2>
+- 🎓 MS in Computer Science @ University of Southern California
+- 🔬 Research Assistant at USC ISI HUMANS Lab
+- 🏆 HackSC'24 SoCal Runner-up
+- 📚 Published Researcher in Social Media Analytics & Blockchain
+- 💡 Expertise in Data Engineering, ML/DL, and Cloud Architecture
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</p>
+## 🛠️ Tech Arsenal
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&theme=dark&background=000000" alt="Top Languages" />
-</p>
+### 🐍 Core Technologies
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-Proficient-007396?style=flat-square&logo=java)
 
+### 🤖 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-‎-EE4C2C?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-‎-FF6F00?style=flat-square&logo=tensorflow)
+![Scikit](https://img.shields.io/badge/ScikitLearn-‎-F7931E?style=flat-square&logo=scikit-learn)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-‎-FFD21E?style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=dark&background=111111" alt="GitHub Stats" />
-</p>
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Proficient-0089D6?style=flat-square&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-Skilled-4285F4?style=flat-square&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker)
+
+### 📊 Data Engineering
+![Spark](https://img.shields.io/badge/Apache_Spark-‎-E25A1C?style=flat-square&logo=apache-spark)
+![Hadoop](https://img.shields.io/badge/Hadoop-‎-66CCFF?style=flat-square&logo=apache-hadoop)
+![Power BI](https://img.shields.io/badge/Power_BI-‎-F2C811?style=flat-square&logo=power-bi)
+![Tableau](https://img.shields.io/badge/Tableau-‎-E97627?style=flat-square&logo=tableau)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Hit07)
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Hit07)
+
+</div>
+
+## 🌐 Featured Projects
+
+### 🏋️‍♂️ FitGPT - AI Fitness Coach
+- HackSC'24 SoCal Runner-up
+- Full-stack application integrating GPT-4 for personalized workout recommendations
+- Tech: React, Flask, Firebase, OpenAI, Elasticsearch
+- [View Project →](https://github.com/Hit07/FitGPT)
+
+### 🔍 Vector Search Engine
+- Semantic search engine using cutting-edge vector database technology
+- 80% retrieval accuracy for complex queries
+- Tech: Weaviate, HuggingFace, Docker
+- [View Project →](https://github.com/Hit07/vector-search)
+
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on innovative projects and discuss new opportunities. Feel free to reach out through any of the channels above!
+
+<div align="center">
+
+*"The only way to do great work is to love what you do." - Steve Jobs*
+
+</div>
