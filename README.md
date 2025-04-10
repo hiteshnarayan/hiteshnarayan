@@ -16,19 +16,15 @@
 </p>
 
 * 🎓 Pursuing MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
-  
-* 🔬 Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/) 
-  
-* 💼 Open for Summer 2025 Internships and Research Collaborations!
+* 💼 Informatics Intern @ [ATRI](https://atri.usc.edu/)
+* 🔬 Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/)
+* 🌱 Open for Summer 2025 Internships and Research Collaborations!
 
 <details>
   <summary>More about me👇</summary>
 
  
-- 🏆 HackSC'24 SoCal Runner-up
-  
-- 📚 Published Researcher in Social Media Analytics & Blockchain
-  
+- 🏆 HackSC'24 SoCal Runner-up 
 - 🌱 Currently exploring LLMs and Vector Databases
 
   
