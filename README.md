@@ -42,9 +42,10 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=apprentice&hide_border=true" alt="Hitesh's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&theme=apprentice&hide_border=true" alt="Top Languages" />
+
+<p align="right"> <img src="https://profile-counter.glitch.me/Hit07/count.svg" alt="Visitor Count"/> </p>
 </div> -->
 
 ----
 
-<p align="right"> <img src="https://profile-counter.glitch.me/Hit07/count.svg" alt="Visitor Count"/> </p>
 
