@@ -18,7 +18,7 @@
 * 🎓 Pursuing MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
 * 💼 Software Engineer Intern @ [ATRI](https://atri.usc.edu/)
 * 🔬 Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/)
-* 🌱 Open for Summer 2025 Internships and Research Collaborations!
+* 🌱 Open for FTE Spring 2026 and Research Collaborations!
 
 <details>
   <summary>More about me👇</summary>
