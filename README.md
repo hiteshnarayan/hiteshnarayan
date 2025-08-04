@@ -15,17 +15,17 @@
   <a href="mailto:hiteshna@usc.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com" alt="Email"></a>
 </p>
 
-* 🎓 Pursuing MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
-* 💼 Software Engineer Intern @ [ATRI](https://atri.usc.edu/)
-* 🔬 Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/)
-* 🌱 Open for FTE Spring 2026 and Research Collaborations!
+* Pursuing MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
+* Software Engineer Intern @ [ATRI](https://atri.usc.edu/)
+* Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/)
+* Open for FTE Spring 2026 and Research Collaborations!
 
 <details>
   <summary>More about me👇</summary>
 
  
-- 🏆 HackSC'24 SoCal Runner-up 
-- 🌱 Currently exploring LLMs and Vector Databases
+- HackSC'24 SoCal Runner-up 
+- Currently exploring LLMs and Vector Databases
 
   
 </details>
