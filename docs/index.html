@@ -79,8 +79,7 @@
       // Set pixel src once (avoid double requests), with cache-busting
       var px = document.getElementById('vcpx');
       if (px) px.src = 'https://visitorcountproject.vercel.app/api/pixel/profile?cid=' + encodeURIComponent(cid) + '&t=' + Date.now();
-      // Backup fetch (fire-and-forget)
-      fetch('https://visitorcountproject.vercel.app/api/hit/profile?cid=' + encodeURIComponent(cid) + '&t=' + Date.now(), { mode: 'no-cors' }).catch(function(){});
+      // Using only the pixel call to avoid double counting.
     })();
   </script>
 
