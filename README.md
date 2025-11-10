@@ -7,17 +7,12 @@
 
 
 <p align="center">
-  <a href="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan">
-    <img src="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan.svg?style=flat-square&show=unique" alt="Profile Views" />
-  </a>
+  <img src="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan.svg?style=plastic&show=unique" alt="Unique Visitors" />
 </p>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Hit07n&label=Profile%20views&color=0e75b7&style=flat" alt="Hit07" /> 
-</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hiteshn007/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshn007/" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hiteshnarayan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshnarayan/" alt="LinkedIn"></a>
 <!--   <a href="https://tinyurl.com/6hzxjfav"><img src="https://img.shields.io/badge/-Resume-critical?style=flat-square&logo=Google%20Drive&logoColor=white&<link>" alt="Resume"></a> -->
   <a href="mailto:hiteshna@usc.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com" alt="Email"></a>
 </p>
