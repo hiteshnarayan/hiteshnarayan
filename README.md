@@ -11,6 +11,8 @@
   <br />
   <!-- Optional disclosure line (recommended) -->
   <sub>Badge refreshes every 8 hours; increments from real visits to my page </sub>
+  <p> Wanna know how? check out <a href="https://visitorcountproject.vercel.app">here</a></p>
+  
 </div>
 
 <br>
@@ -21,12 +23,7 @@
   <a href="mailto:hiteshna@usc.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com" alt="Email"></a>
 </p>
 
-<p align="center" style="margin-top:6px">
-  <sub>Visit my live page to register a view (once per day):
-    <a href="https://visitorcountproject.vercel.app/profile">visitorcountproject.vercel.app/profile</a>
-  </sub>
-  <br/>
-  <sub>Badge above refreshes ~every 8h and shows the total.</sub>
+
   <!-- Shields-style alternative (display only):
   <br/>
   <img alt="unique views" src="https://img.shields.io/endpoint?url=https://visitorcountproject.vercel.app/api/badge/profile&cacheSeconds=28800" />
