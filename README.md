@@ -21,6 +21,18 @@
   <a href="mailto:hiteshna@usc.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com" alt="Email"></a>
 </p>
 
+<p align="center" style="margin-top:6px">
+  <sub>Visit my live page to register a view (once per day):
+    <a href="https://hiteshnarayan.github.io/hiteshnarayan/">hiteshnarayan.github.io/hiteshnarayan</a>
+  </sub>
+  <br/>
+  <sub>Badge above refreshes ~every 8h and shows the total.</sub>
+  <!-- Shields-style alternative (display only):
+  <br/>
+  <img alt="unique views" src="https://img.shields.io/endpoint?url=https://visitorcountproject.vercel.app/api/badge/profile&cacheSeconds=28800" />
+  -->
+</p>
+
 * Pursuing MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
 * Software Engineer Intern @ [Keck Medicine of USC](https://atri.usc.edu/)
 * Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/)
@@ -49,9 +61,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hit07&show_icons=true&theme=apprentice&hide_border=true" alt="Hitesh's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&theme=apprentice&hide_border=true" alt="Top Languages" />
 
-<p align="right"> <img src="https://profile-counter.glitch.me/Hit07/count.svg" alt="Visitor Count"/> </p>
+<!-- Replaced legacy glitch counter with privacy-friendly service above -->
 </div> -->
 
 ----
-
 
