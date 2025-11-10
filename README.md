@@ -7,7 +7,9 @@
 
 
 <p align="center">
-    [![HitCount](https://hits.dwyl.com/hiteshnarayan/ hiteshnarayan.svg?style=flat-square&show=unique)](http://hits.dwyl.com/hiteshnarayan/ hiteshnarayan)
+  <a href="http://hits.dwyl.com/hiteshnarayan/hiteshnarayan">
+    <img src="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan.svg?style=flat-square&show=unique" alt="Unique Visitors" />
+  </a>
 </p>
 
 
