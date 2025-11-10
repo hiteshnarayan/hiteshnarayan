@@ -6,7 +6,7 @@
 </div> -->
 
 <img alt="Profile views"
-       src="https://img.shields.io/endpoint?url=https://visitorcountproject.vercel.app/api/badge/profile">
+       src="https://img.shields.io/endpoint?url=https://visitorcountproject.vercel.app/api/svg/profile">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiteshnarayan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshnarayan/" alt="LinkedIn"></a>
