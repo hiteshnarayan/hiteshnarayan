@@ -5,10 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&random=false&width=600&lines=MS+CS+Student+%40+USC;Software+Engineer+Intern+%40+ATRI;Research+Assistant+%40+USC+ISI;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Data)](https://git.io/typing-svg)
 </div> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&random=false&width=600&lines=MS+CS+Student+%40+USC;Software+Engineer+Intern+%40+ATRI;Research+Assistant+%40+USC+ISI;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Data)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiteshnarayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan">
+    <img src="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan.svg?style=flat-square&show=unique" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center"> 
