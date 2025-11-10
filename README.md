@@ -11,7 +11,8 @@
   <br />
   <!-- Optional disclosure line (recommended) -->
   <sub>Badge refreshes every 8 hours; increments from real visits to my page </sub>
-  <p> Wanna know how? check out <a href="https://visitorcountproject.vercel.app">here</a></p>
+  
+  <sub> <i>Wanna know how?</i> check out <a href="https://visitorcountproject.vercel.app">here</a></sub>
   
 </div>
 
