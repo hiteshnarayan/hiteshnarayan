@@ -6,12 +6,7 @@
 </div> -->
 
 
-<p align="center">
-  <a href="http://hits.dwyl.com/hiteshnarayan/hiteshnarayan">
-    <img src="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan.svg?style=flat-square&show=unique" alt="Unique Visitors" />
-  </a>
-</p>
-
+  [![HitCount](https://hits.dwyl.com/hiteshnarayan/hiteshnarayan.svg?style=flat-square&show=unique)](http://hits.dwyl.com/hiteshnarayan/hiteshnarayan)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiteshnarayan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshnarayan/" alt="LinkedIn"></a>
