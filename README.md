@@ -4,9 +4,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&random=false&width=600&lines=MS+CS+Student+%40+USC;Software+Engineer+Intern+%40+ATRI;Research+Assistant+%40+USC+ISI;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Data)](https://git.io/typing-svg)
 </div> -->
-<div align="center"> 
+<div align="center">
+  <!-- Branded SVG badge (auto-refreshed every 8h by the Action below) -->
   <img alt="Profile views"
-       src="https://img.shields.io/endpoint?url=https://visitorcountproject.vercel.app/api/badge/profile">
+       src="https://visitorcountproject.vercel.app/api/svg/profile?b=SEED" />
+  <br />
+  <!-- Optional disclosure line (recommended) -->
+  <sub>Badge refreshes every 8 hours; increments from real visits to my page and an optional heartbeat.</sub>
 </div>
 
 <p align="center">
