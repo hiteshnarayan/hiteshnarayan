@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8" />
+<title>Hitesh - Profile</title>
+<body style="font-family:system-ui;background:#0b0e12;color:#eee;padding:32px">
+  <h1>Welcome 👋</h1>
+  <p>This page registers a unique visit for my public badge.</p>
+  <script>
+    fetch('https://visitorcountproject.vercel.app/api/hit?key=profile').catch(()=>{});
+  </script>
+  <p>Current badge:</p>
+  <img src="https://visitorcountproject.vercel.app/api/svg/profile?preview=1" height="48" />
+</body>
+</html>
