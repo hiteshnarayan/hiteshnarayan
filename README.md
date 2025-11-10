@@ -23,7 +23,7 @@
 
 <p align="center" style="margin-top:6px">
   <sub>Visit my live page to register a view (once per day):
-    <a href="https://hiteshnarayan.github.io/hiteshnarayan/">hiteshnarayan.github.io/hiteshnarayan</a>
+    <a href="https://visitorcountproject.vercel.app/profile">visitorcountproject.vercel.app/profile</a>
   </sub>
   <br/>
   <sub>Badge above refreshes ~every 8h and shows the total.</sub>
@@ -65,4 +65,3 @@
 </div> -->
 
 ----
-
