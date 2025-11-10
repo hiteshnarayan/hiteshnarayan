@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://hits.dwyl.com/hiteshnarayan/hiteshnarayan.svg?style=flat-square&show=unique&color=2E9AFE&label=Unique+Visitors" alt="Visitors" />
+    [![HitCount](https://hits.dwyl.com/hiteshnarayan/ hiteshnarayan.svg?style=flat-square&show=unique)](http://hits.dwyl.com/hiteshnarayan/ hiteshnarayan)
 </p>
 
 
