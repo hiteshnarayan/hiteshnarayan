@@ -4,9 +4,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&random=false&width=600&lines=MS+CS+Student+%40+USC;Software+Engineer+Intern+%40+ATRI;Research+Assistant+%40+USC+ISI;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Data)](https://git.io/typing-svg)
 </div> -->
-
-<img alt="Profile views"
-       src="https://img.shields.io/endpoint?url=https://visitorcountproject.vercel.app/api/svg/profile">
+<div align="center"> 
+  <img alt="Profile views"
+       src="https://img.shields.io/endpoint?url=https://visitorcountproject.vercel.app/api/badge/profile">
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiteshnarayan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshnarayan/" alt="LinkedIn"></a>
