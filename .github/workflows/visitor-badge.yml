@@ -1,0 +1,46 @@
+name: Refresh visitor badge (8h)
+on:
+  schedule:
+    - cron: "0 */8 * * *"   # every 8 hours (UTC)
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compute bucket
+        id: bucket
+        run: |
+          hour=$(date -u +%H)
+          if [ $hour -lt 8 ]; then base=00; b=0;
+          elif [ $hour -lt 16 ]; then base=08; b=1;
+          else base=16; b=2; fi
+          day=$(date -u +%Y%m%d)
+          echo "bucket_ts=${day}${base}" >> $GITHUB_OUTPUT
+          echo "bucket_id=${b}" >> $GITHUB_OUTPUT
+
+      - name: Rewrite README badge URL (cache-bust)
+        run: |
+          ts="${{ steps.bucket.outputs.bucket_ts }}"
+          # Replace existing ?b=... or append if missing
+          sed -E -i "s|(api/svg/profile)(\\?b=[0-9]+)?|\\1?b=${ts}|g" README.md
+          if git diff --quiet README.md; then
+            echo "No badge change (already current bucket)."; exit 0
+          fi
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh badge bucket ${ts}"
+
+      # Optional: one synthetic increment per 8h bucket.
+      # - name: Synthetic bucket hit (optional)
+      #   run: |
+      #     b="${{ steps.bucket.outputs.bucket_id }}"
+      #     curl -s -H "X-Forwarded-For: 10.0.${b}.42" -A "gh-action-bucket-${b}" \
+      #       "https://visitorcountproject.vercel.app/api/hit?key=profile" || true
+
+      - name: Push
+        run: git push || true
