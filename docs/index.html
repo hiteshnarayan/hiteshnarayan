@@ -3,14 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hitesh Narayan</title>
-    <meta http-equiv="refresh" content="0;url=https://github.com/hiteshnarayan">
 </head>
 <body>
-    <p>Redirecting to GitHub profile...</p>
     <script>
-    fetch('https://visitorcountproject.vercel.app/api/hit/profile')
-      .catch(err => console.log('Tracking error:', err));
+    fetch('https://visitorcountproject.vercel.app/api/hit/profile').catch(() => {});
+    window.location.replace('https://github.com/hiteshnarayan');
     </script>
 </body>
 </html>
