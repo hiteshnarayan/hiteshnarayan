@@ -10,10 +10,11 @@
        src="https://visitorcountproject.vercel.app/api/svg/profile?b=SEED" />
   <br />
   <!-- Optional disclosure line (recommended) -->
-  <sub>Badge refreshes every 8 hours; increments from real visits to my page and an optional heartbeat.</sub>
+  <sub>Badge refreshes every 8 hours; increments from real visits to my page </sub>
 </div>
 
 <br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hiteshnarayan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshnarayan/" alt="LinkedIn"></a>
 <!--   <a href="https://tinyurl.com/6hzxjfav"><img src="https://img.shields.io/badge/-Resume-critical?style=flat-square&logo=Google%20Drive&logoColor=white&<link>" alt="Resume"></a> -->
