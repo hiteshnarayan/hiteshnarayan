@@ -60,6 +60,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit07&layout=compact&theme=apprentice&hide_border=true" alt="Top Languages" />
 
 <!-- Replaced legacy glitch counter with privacy-friendly service above -->
-</div> -->
-
-----
