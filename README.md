@@ -7,7 +7,7 @@
 <div align="center">
   <!-- Branded SVG badge (auto-refreshed every 8h by the Action below) -->
   <img alt="Profile views"
-       src="https://visitorcountproject.vercel.app/api/svg/profile?b=SEED" />
+       src="https://badge-visitor-count.vercel.app/api/svg/profile?b=SEED" />
   <br />
   <!-- Optional disclosure line (recommended) -->
   <sub>Badge refreshes every 8 hours; increments from real visits to my page </sub>
