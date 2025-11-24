@@ -4,16 +4,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&random=false&width=600&lines=MS+CS+Student+%40+USC;Software+Engineer+Intern+%40+ATRI;Research+Assistant+%40+USC+ISI;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Data)](https://git.io/typing-svg)
 </div> -->
+
+
 <div align="center">
   <!-- Branded SVG badge (auto-refreshed every 8h by the Action below) -->
-  <img alt="Profile views"
-       src="https://badge-visitor-count.vercel.app/api/svg/profile?b=SEED" />
-  <br />
-  <!-- Optional disclosure line (recommended) -->
-  <sub>Badge refreshes every 8 hours; increments from real visits to my page </sub>
-  
-  <sub> <i>Wanna know how?</i> check out <a href="https://visitorcountproject.vercel.app">here</a></sub>
-  
+  <img alt="profile views" src="https://badge-visitor-count.vercel.app/api/svg/profile" />
+  <br/>
+  <sub>Tracking visitors with my own <a href="https://github.com/hiteshnarayan/visitor-counter">badge service</a></sub>
 </div>
 
 <br>
