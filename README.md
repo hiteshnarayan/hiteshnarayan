@@ -10,7 +10,7 @@
   <!-- Branded SVG badge (auto-refreshed every 8h by the Action below) -->
   <img alt="profile views" src="https://badge-visitor-count.vercel.app/api/svg/profile" />
   <br/>
-  <sub>Tracking visitors with my own <a href="https://github.com/hiteshnarayan/visitor-counter">badge service</a></sub>
+  <sub>Tracking visitors with my own <a href="https://github.com/hiteshnarayan/visitors-count">badge service</a></sub>
 </div>
 
 <br>
