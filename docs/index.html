@@ -3,17 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
 </head>
 <body>
-<script>
-    fetch('https://badge-visitor-count.vercel.app/api/hit/profile', {
-        method: 'GET',
-        keepalive: true  // Helps prevent cancellation on page unload
-    }).finally(() => {
-        setTimeout(() => {
-            window.location.replace('https://github.com/hiteshnarayan');
-        }, 100);
-    });
-</script>
+    <script>
+        fetch('https://badge-visitor-count.vercel.app/api/hit/profile', {
+            method: 'GET',
+            keepalive: true
+        }).finally(() => {
+            
+            setTimeout(() => {
+                window.location.replace('https://github.com/hiteshnarayan');
+            }, 200); // 200ms delay to ensure request is fully sent
+        });
+    </script>
 </body>
 </html>
