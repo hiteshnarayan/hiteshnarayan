@@ -5,9 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <script>
-    fetch('https://badge-visitor-count.vercel.app/api/hit/profile').catch(() => {});
-    window.location.replace('https://github.com/hiteshnarayan');
-    </script>
+<script>
+    fetch('https://badge-visitor-count.vercel.app/api/hit/profile', {
+        method: 'GET',
+        keepalive: true  // Helps prevent cancellation on page unload
+    }).finally(() => {
+        setTimeout(() => {
+            window.location.replace('https://github.com/hiteshnarayan');
+        }, 100);
+    });
+</script>
 </body>
 </html>
