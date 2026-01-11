@@ -10,6 +10,7 @@
         (function() {
             'use strict';
             
+            // Configuration
             const CONFIG = {
                 trackingUrl: 'https://badge-visitor-count.vercel.app/api/hit/profile',
                 redirectUrl: 'https://github.com/hiteshnarayan',
@@ -17,6 +18,17 @@
                 minWaitTime: 200,
                 redirectDelay: 100
             };
+            
+            // Prevent duplicate tracking requests in the same session
+            const TRACKING_KEY = 'vc_tracking_sent';
+            if (sessionStorage.getItem(TRACKING_KEY)) {
+                // Already tracked in this session, just redirect
+                window.location.replace(CONFIG.redirectUrl);
+                return;
+            }
+            
+            // Mark that we're tracking (prevents duplicate requests)
+            sessionStorage.setItem(TRACKING_KEY, '1');
             
             let redirected = false;
             let trackingStarted = Date.now();
@@ -34,26 +46,30 @@
                 safeRedirect();
             }, CONFIG.maxWaitTime);
             
+            // Get or generate client ID from localStorage (persistent across sessions)
             function getClientId() {
                 try {
                     let cid = localStorage.getItem('visitor_cid');
                     if (!cid) {
-                        cid = Date.now().toString(36) + Math.random().toString(36).substr(2);
+                        // Generate a more unique ID
+                        cid = Date.now().toString(36) + '-' + Math.random().toString(36).substr(2, 9);
                         localStorage.setItem('visitor_cid', cid);
                     }
                     return cid;
                 } catch (e) {
+                    // localStorage might be blocked in some privacy modes
                     return null;
                 }
             }
             
+            // Build tracking URL with client ID (no timestamp to ensure consistent hash)
             const cid = getClientId();
-            const timestamp = Date.now();
-            const trackingUrlWithParams = CONFIG.trackingUrl 
-                + (cid ? '?cid=' + encodeURIComponent(cid) : '')
-                + (cid ? '&t=' + timestamp : '?t=' + timestamp);
+            const trackingUrl = cid 
+                ? CONFIG.trackingUrl + '?cid=' + encodeURIComponent(cid)
+                : CONFIG.trackingUrl;
             
-            fetch(trackingUrlWithParams, {
+            // Send tracking request (only once per session)
+            fetch(trackingUrl, {
                 method: 'GET',
                 keepalive: true,
                 cache: 'no-store',
