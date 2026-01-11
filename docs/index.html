@@ -10,35 +10,30 @@
         (function() {
             'use strict';
             
-            // Configuration
             const CONFIG = {
                 trackingUrl: 'https://badge-visitor-count.vercel.app/api/hit/profile',
                 redirectUrl: 'https://github.com/hiteshnarayan',
-                maxWaitTime: 2000,      // Max 2s wait for tracking (failsafe)
-                minWaitTime: 200,       // Min 200ms to ensure request is sent
-                redirectDelay: 100      // Additional delay before redirect
+                maxWaitTime: 2000,
+                minWaitTime: 200,
+                redirectDelay: 100
             };
             
             let redirected = false;
             let trackingStarted = Date.now();
             
-            // Prevent multiple redirects
             function safeRedirect() {
                 if (redirected) return;
                 redirected = true;
-                
                 setTimeout(function() {
                     window.location.replace(CONFIG.redirectUrl);
                 }, CONFIG.redirectDelay);
             }
             
-            // Failsafe timeout - redirect even if tracking hangs
             const failsafeTimer = setTimeout(function() {
                 console.warn('Tracking timeout - redirecting anyway');
                 safeRedirect();
             }, CONFIG.maxWaitTime);
             
-            // Get or generate client ID from localStorage
             function getClientId() {
                 try {
                     let cid = localStorage.getItem('visitor_cid');
@@ -48,25 +43,22 @@
                     }
                     return cid;
                 } catch (e) {
-                    // localStorage might be blocked in some privacy modes
                     return null;
                 }
             }
             
-            // Build tracking URL with client ID and timestamp to prevent caching
             const cid = getClientId();
             const timestamp = Date.now();
             const trackingUrlWithParams = CONFIG.trackingUrl 
                 + (cid ? '?cid=' + encodeURIComponent(cid) : '')
                 + (cid ? '&t=' + timestamp : '?t=' + timestamp);
             
-            // Send tracking request
             fetch(trackingUrlWithParams, {
                 method: 'GET',
-                keepalive: true,          // Keep request alive during page unload
-                cache: 'no-store',        // Don't cache tracking requests
-                credentials: 'omit',      // Don't send cookies (privacy)
-                mode: 'cors'              // Explicit CORS mode
+                keepalive: true,
+                cache: 'no-store',
+                credentials: 'omit',
+                mode: 'cors'
             })
             .then(function(response) {
                 if (!response.ok) {
@@ -75,13 +67,10 @@
                 return response;
             })
             .catch(function(error) {
-                // Tracking failed - still redirect (don't block user)
                 console.warn('Tracking error (non-blocking):', error.message);
             })
             .finally(function() {
                 const elapsed = Date.now() - trackingStarted;
-                
-                // Ensure minimum wait time for request to be sent
                 if (elapsed < CONFIG.minWaitTime) {
                     setTimeout(function() {
                         clearTimeout(failsafeTimer);
@@ -93,12 +82,10 @@
                 }
             });
             
-            // Fallback for browsers without fetch support
             if (!window.fetch) {
                 console.warn('Fetch not supported - redirecting immediately');
                 safeRedirect();
             }
-            
         })();
     </script>
     <noscript>
