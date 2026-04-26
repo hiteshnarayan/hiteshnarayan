@@ -28,17 +28,21 @@
   -->
 </p>
 
-* Pursuing MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
-* Software Engineer Intern @ [Keck Medicine of USC](https://atri.usc.edu/)
-* Research Assistant at USC ISI [HUMANS Lab](http://www.emilio.ferrara.name/code/)
-* Open for FTE Spring 2026 and Research Collaborations!
+* MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
+* Software Engineer @ [Easley-Dunn Productions ](https://www.easleydunnproductions.com/) 
+* Former Software Engineer Intern @ [Keck Medicine of USC (ATRI)](https://atri.usc.edu/)
+* Research Assistant @ USC ISI — [HUMANS Lab](http://www.emilio.ferrara.name/code/)
+* Open to Full-Time SWE roles (Backend/Full-stack/Data)
 
 <details>
-  <summary>More about me👇</summary>
+  <summary>More about me 👇</summary>
 
- 
-- HackSC'24 SoCal Runner-up 
-- Currently exploring LLMs and Vector Databases
+- HackSC'24 SoCal Runner-up  
+- Co-authored CySoc 2025 paper (USC ISI)  
+- Build backend systems, data pipelines, and cloud-native applications  
+- Interested in applied AI/ML systems (LLMs, retrieval, data-driven workflows)  
+
+</details>
 
   
 </details>
